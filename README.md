@@ -63,7 +63,9 @@ For complete projects and production-style implementations (including Streamlit 
 
 ## 👨‍💻 Author
 **Robiul Hasan Jisan**
-* **Portfolio:** [robiulhasanjisan.vercel.app](https://robiulhasanjisan.vercel.app/)
-* **GitHub:** [@RoBiul-Hasan-Jisan](https://github.com/RoBiul-Hasan-Jisan)
+
+- **Portfolio:** [robiulhasanjisan.vercel.app](https://robiulhasanjisan.vercel.app/)
+- **GitHub:** [@RoBiul-Hasan-Jisan](https://github.com/RoBiul-Hasan-Jisan)
+- **Kaggle:** [robiulhasanjisan](https://www.kaggle.com/robiulhasanjisan)
 
  *This repository is part of my continuous learning journey in Machine Learning and Data Science.*
