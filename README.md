@@ -37,10 +37,29 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
   Additional competition experiments.
 
 ###  Practice Projects
+
+
 * **[Insurance Dataset Practice](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/insurance)**
   Experiments with machine learning models on an insurance dataset.
+
 * **[Aviation Crisis Analysis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/aviation%20crisis)**
   Data analysis and modeling experiments related to aviation data.
+
+* **[European Employment Trends Data](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/European%20Employment%20Trends%20Data)**
+  European labour market indicators by sex and age group from 2015 to 2024. 
+  *(Dataset: [European Employment & Unemployment Rates](https://www.kaggle.com/datasets/lucalullo/european-employment-unemployment-rates-2015-2024/data))*
+
+* **[Bengali Customer Feedback Dataset](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Bengali%20Customer%20Feedback)**
+  Customer voices, rated and labeled for sentiment analysis and NLP exploration. 
+  *(Dataset: [Bengali Customer Feedback Dataset](https://www.kaggle.com/datasets/robiulhasanjisan/bengali-customer-feedback-dataset))*
+
+* **[Hospital Patient Readmission Dataset](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Hospital%20Patient%20Readmission%20Dataset)**
+  Synthetic healthcare data for readmission prediction and medical data modeling. 
+  *(Dataset: [Hospital Patient Readmission Dataset](https://www.kaggle.com/datasets/mohamedasak/hospital-patient-readmission-dataset))*
+
+* **[Evaluate LLMs for Rare Disease Diagnosis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Evaluate%20LLMs%20for%20Rare%20disease)**
+  Dataset sourced from ZebraMap to evaluate and test LLM diagnostic abilities. 
+  *(Dataset: [Evaluate LLMs for Rare Disease Diagnosis](https://www.kaggle.com/datasets/joetheguide/evaluate-llms-for-rare-disease-diagnosis))*
 
 ---
 
