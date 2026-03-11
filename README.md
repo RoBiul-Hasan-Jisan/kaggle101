@@ -61,11 +61,13 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
   Dataset sourced from ZebraMap to evaluate and test LLM diagnostic abilities. 
   *(Dataset: [Evaluate LLMs for Rare Disease Diagnosis](https://www.kaggle.com/datasets/joetheguide/evaluate-llms-for-rare-disease-diagnosis))*
 
- AI Adoption Patterns And Prediction   Company AI adoption, workforce impact, productivity and governance metrics    https://www.kaggle.com/datasets/mohankrishnathalla/global-ai-adoption-and-workforce-impact-dataset
+* **[AI Adoption Patterns and Prediction](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/AI%20Adoption%20Patterns%20And%20Prediction)**
+  Analysis of company AI adoption, workforce impact, productivity, and governance metrics with predictive modeling.  
+  *(Dataset: [Global AI Adoption and Workforce Impact Dataset](https://www.kaggle.com/datasets/mohankrishnathalla/global-ai-adoption-and-workforce-impact-dataset))*
 
-
-  Wearable Antenna Fault Detection Pipeline  https://www.kaggle.com/datasets/amineipad/antenna-performance-and-fault-detection-dataset
-  Comprehensive physical and electromagnetic parameters
+* **[Wearable Antenna Fault Detection Pipeline](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Wearable%20Antenna%20Fault%20Detection%20Pipeline)**
+  Machine learning pipeline for detecting antenna faults using comprehensive physical and electromagnetic parameters.  
+  *(Dataset: [Antenna Performance and Fault Detection Dataset](https://www.kaggle.com/datasets/amineipad/antenna-performance-and-fault-detection-dataset))*
 ---
 
 ##  Important Notes
