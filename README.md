@@ -61,6 +61,11 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
   Dataset sourced from ZebraMap to evaluate and test LLM diagnostic abilities. 
   *(Dataset: [Evaluate LLMs for Rare Disease Diagnosis](https://www.kaggle.com/datasets/joetheguide/evaluate-llms-for-rare-disease-diagnosis))*
 
+ AI Adoption Patterns And Prediction   Company AI adoption, workforce impact, productivity and governance metrics    https://www.kaggle.com/datasets/mohankrishnathalla/global-ai-adoption-and-workforce-impact-dataset
+
+
+  Wearable Antenna Fault Detection Pipeline  https://www.kaggle.com/datasets/amineipad/antenna-performance-and-fault-detection-dataset
+  Comprehensive physical and electromagnetic parameters
 ---
 
 ##  Important Notes
