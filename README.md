@@ -39,54 +39,51 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
 ###  Practice Projects
 
 
-* **[Insurance Dataset Practice](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/insurance)**
+1. **[Insurance Dataset Practice](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/insurance)**
   Experiments with machine learning models on an insurance dataset.
 
-* **[Aviation Crisis Analysis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/aviation%20crisis)**
+2. **[Aviation Crisis Analysis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/aviation%20crisis)**
   Data analysis and modeling experiments related to aviation data.
 
-* **[European Employment Trends Data](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/European%20Employment%20Trends%20Data)**
+3. **[European Employment Trends Data](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/European%20Employment%20Trends%20Data)**
   European labour market indicators by sex and age group from 2015 to 2024. 
   *(Dataset: [European Employment & Unemployment Rates](https://www.kaggle.com/datasets/lucalullo/european-employment-unemployment-rates-2015-2024/data))*
 
-* **[Bengali Customer Feedback Dataset](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Bengali%20Customer%20Feedback)**
+4. **[Bengali Customer Feedback Dataset](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Bengali%20Customer%20Feedback)**
   Customer voices, rated and labeled for sentiment analysis and NLP exploration. 
   *(Dataset: [Bengali Customer Feedback Dataset](https://www.kaggle.com/datasets/robiulhasanjisan/bengali-customer-feedback-dataset))*
 
-* **[Hospital Patient Readmission Dataset](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Hospital%20Patient%20Readmission%20Dataset)**
+5. **[Hospital Patient Readmission Dataset](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Hospital%20Patient%20Readmission%20Dataset)**
   Synthetic healthcare data for readmission prediction and medical data modeling. 
   *(Dataset: [Hospital Patient Readmission Dataset](https://www.kaggle.com/datasets/mohamedasak/hospital-patient-readmission-dataset))*
 
-* **[Evaluate LLMs for Rare Disease Diagnosis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Evaluate%20LLMs%20for%20Rare%20disease)**
+6. **[Evaluate LLMs for Rare Disease Diagnosis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Evaluate%20LLMs%20for%20Rare%20disease)**
   Dataset sourced from ZebraMap to evaluate and test LLM diagnostic abilities. 
   *(Dataset: [Evaluate LLMs for Rare Disease Diagnosis](https://www.kaggle.com/datasets/joetheguide/evaluate-llms-for-rare-disease-diagnosis))*
 
-* **[AI Adoption Patterns and Prediction](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/AI%20Adoption%20Patterns%20And%20Prediction)**
+7. **[AI Adoption Patterns and Prediction](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/AI%20Adoption%20Patterns%20And%20Prediction)**
   Analysis of company AI adoption, workforce impact, productivity, and governance metrics with predictive modeling.  
   *(Dataset: [Global AI Adoption and Workforce Impact Dataset](https://www.kaggle.com/datasets/mohankrishnathalla/global-ai-adoption-and-workforce-impact-dataset))*
 
-* **[Wearable Antenna Fault Detection Pipeline](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Wearable%20Antenna%20Fault%20Detection%20Pipeline)**
+8. **[Wearable Antenna Fault Detection Pipeline](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Wearable%20Antenna%20Fault%20Detection%20Pipeline)**
   Machine learning pipeline for detecting antenna faults using comprehensive physical and electromagnetic parameters.  
   *(Dataset: [Antenna Performance and Fault Detection Dataset](https://www.kaggle.com/datasets/amineipad/antenna-performance-and-fault-detection-dataset))*
 
+9. **[Blood Cell Anomaly Detection](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Blood%20Cell%20Anomaly%20Detection)**
+  Detection of anomalies in 5,880 cells across 19 types (including Leukemia, Anemia & Infections), inspired by CytoDiffusion.  
+  *(Dataset: [Blood Cell Anomaly Detection 2025](https://www.kaggle.com/datasets/alitaqishah/blood-cell-anomaly-detection-2025))*
 
-Blood Cell Anomaly Detection 2025
-5,880 cells · 19 types · Leukemia, Anemia & Infections · Inspired by CytoDiffusi
-Dataset   https://www.kaggle.com/datasets/alitaqishah/blood-cell-anomaly-detection-2025
+10. **[Goldman Sachs (GS) Stock Analysis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Goldman%20Sachs%20(GS)%20Stock%20Analysis)**
+  Analysis of 27 years of Goldman Sachs stock market data (1999–2026) encompassing over 6,700 daily records.  
+  *(Dataset: [Goldman Sachs (GS) Stock Data (1999–2026)](https://www.kaggle.com/datasets/anadiskt/goldman-sachs-gs-stock-data-19992026))*
 
+11. **[Pakistan - Human Development Indicators](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Pakistan%20-%20Human%20Development%20Indicators)**
+  Analysis of trends in Pakistan's Human Development Index (HDI) spanning from 1990 to 2023.  
+  *(Dataset: [Pakistan - Human Development Indicators](https://www.kaggle.com/datasets/abbas829/pakistan-human-development-indicators))*
 
-Goldman Sachs (GS) Stock Data (1999–2026)
-27 years of Goldman Sachs stock market data (1999–2026) with 6700+ daily records 
-dataset  https://www.kaggle.com/datasets/anadiskt/goldman-sachs-gs-stock-data-19992026
-
-
-Pakistan - Human Development Indicators
-Trends in Pakistan's HDI 1990 – 2023  dataset   https://www.kaggle.com/datasets/abbas829/pakistan-human-development-indicators
-
-
-Bank Transactions Dataset for Fraud Detection
-The bank transactions dataset for fraud detection and analytics 
-dataset   https://www.kaggle.com/datasets/thuandao/bank-transactions-dataset-for-fraud-detection
+12. **[Bank Transactions Dataset for Fraud Detection](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Bank%20Transactions%20Dataset%20for%20Fraud%20Detection)**
+  Data analytics and modeling using a bank transactions dataset focused on fraud detection.  
+  *(Dataset: [Bank Transactions Dataset for Fraud Detection](https://www.kaggle.com/datasets/thuandao/bank-transactions-dataset-for-fraud-detection))*
 
 ---
 
