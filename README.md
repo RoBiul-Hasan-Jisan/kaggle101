@@ -68,6 +68,26 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
 * **[Wearable Antenna Fault Detection Pipeline](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Wearable%20Antenna%20Fault%20Detection%20Pipeline)**
   Machine learning pipeline for detecting antenna faults using comprehensive physical and electromagnetic parameters.  
   *(Dataset: [Antenna Performance and Fault Detection Dataset](https://www.kaggle.com/datasets/amineipad/antenna-performance-and-fault-detection-dataset))*
+
+
+Blood Cell Anomaly Detection 2025
+5,880 cells · 19 types · Leukemia, Anemia & Infections · Inspired by CytoDiffusi
+Dataset   https://www.kaggle.com/datasets/alitaqishah/blood-cell-anomaly-detection-2025
+
+
+Goldman Sachs (GS) Stock Data (1999–2026)
+27 years of Goldman Sachs stock market data (1999–2026) with 6700+ daily records 
+dataset  https://www.kaggle.com/datasets/anadiskt/goldman-sachs-gs-stock-data-19992026
+
+
+Pakistan - Human Development Indicators
+Trends in Pakistan's HDI 1990 – 2023  dataset   https://www.kaggle.com/datasets/abbas829/pakistan-human-development-indicators
+
+
+Bank Transactions Dataset for Fraud Detection
+The bank transactions dataset for fraud detection and analytics 
+dataset   https://www.kaggle.com/datasets/thuandao/bank-transactions-dataset-for-fraud-detection
+
 ---
 
 ##  Important Notes
