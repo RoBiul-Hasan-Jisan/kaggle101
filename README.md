@@ -109,10 +109,6 @@ Exploring the relationship between smartphone usage, sleep quality analysis
 Dataset link : https://www.kaggle.com/datasets/jayjoshi37/sleep-screen-time-and-stress-analysis
 
 
-🩸 Blood Cell Anomaly Detection 2025
-5,880 cells · 19 types · Leukemia, Anemia & Infections · Inspired by CytoDiffusi
-
-Dataset link : https://www.kaggle.com/datasets/alitaqishah/blood-cell-anomaly-detection-2025
 
 
 
