@@ -85,6 +85,37 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
   Data analytics and modeling using a bank transactions dataset focused on fraud detection.  
   *(Dataset: [Bank Transactions Dataset for Fraud Detection](https://www.kaggle.com/datasets/thuandao/bank-transactions-dataset-for-fraud-detection))*
 
+Global Oil Prices & Geopolitical Events(2010-2026)
+Daily oil prices with geopolitical risk, macro indicators, and events
+Dataset link : https://www.kaggle.com/datasets/kavyadhyani/global-oil-prices-and-geopolitical-events
+
+
+
+Smartphone Usage and Addiction Analysis Dataset
+Analyzing Screen Time, App Interaction, and Digital Dependenc
+Dataset link : https://www.kaggle.com/datasets/algozee/smartphone-usage-and-addiction-analysis-dataset
+
+American Express (AXP) Stock Data (1972–2026)
+Historical American Express (AXP) stock dataset with 13,500+ daily records
+Dataset link : https://www.kaggle.com/datasets/anadiskt/american-express-axp-stock-data-19722026
+
+
+NVIDIA Stock Data (1999–2026) | The AI Mega Stock
+7,079 Trading Days | 6 Splits | IPO to $4.49 Trillion
+Dataset link : https://www.kaggle.com/datasets/alitaqishah/nvidia-stock-data-19992026-the-ai-mega-stock
+
+Sleep, Screen Time and Stress Analysis
+Exploring the relationship between smartphone usage, sleep quality analysis
+Dataset link : https://www.kaggle.com/datasets/jayjoshi37/sleep-screen-time-and-stress-analysis
+
+
+🩸 Blood Cell Anomaly Detection 2025
+5,880 cells · 19 types · Leukemia, Anemia & Infections · Inspired by CytoDiffusi
+
+Dataset link : https://www.kaggle.com/datasets/alitaqishah/blood-cell-anomaly-detection-2025
+
+
+
 ---
 
 ##  Important Notes
