@@ -85,31 +85,25 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
   Data analytics and modeling using a bank transactions dataset focused on fraud detection.  
   *(Dataset: [Bank Transactions Dataset for Fraud Detection](https://www.kaggle.com/datasets/thuandao/bank-transactions-dataset-for-fraud-detection))*
 
-Global Oil Prices & Geopolitical Events(2010-2026)
-Daily oil prices with geopolitical risk, macro indicators, and events
-Dataset link : https://www.kaggle.com/datasets/kavyadhyani/global-oil-prices-and-geopolitical-events
+13. **[Global Oil Prices & Geopolitical Events (2010-2026)](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Global%20Oil%20Prices%20%26%20Geopolitical%20Events)**
+    Daily oil prices with geopolitical risk, macro indicators, and events analysis.  
+    *(Dataset: [Global Oil Prices & Geopolitical Events](https://www.kaggle.com/datasets/kavyadhyani/global-oil-prices-and-geopolitical-events))*
 
+14. **[Smartphone Usage and Addiction Analysis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Smartphone%20Usage%20and%20Addiction%20Analysis)**
+    Analyzing screen time, app interaction, and digital dependency among users.  
+    *(Dataset: [Smartphone Usage and Addiction Analysis Dataset](https://www.kaggle.com/datasets/algozee/smartphone-usage-and-addiction-analysis-dataset))*
 
+15. **[American Express (AXP) Stock Data (1972–2026)](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/American%20Express%20(AXP)%20Stock%20Data)**
+    Historical American Express (AXP) stock dataset modeling with 13,500+ daily records.  
+    *(Dataset: [American Express (AXP) Stock Data (1972–2026)](https://www.kaggle.com/datasets/anadiskt/american-express-axp-stock-data-19722026))*
 
-Smartphone Usage and Addiction Analysis Dataset
-Analyzing Screen Time, App Interaction, and Digital Dependenc
-Dataset link : https://www.kaggle.com/datasets/algozee/smartphone-usage-and-addiction-analysis-dataset
+16. **[NVIDIA Stock Data (1999–2026) | The AI Mega Stock](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/NVIDIA%20Stock%20Data)**
+    Tracking 7,079 trading days and 6 splits, from IPO to a $4.49 Trillion valuation.  
+    *(Dataset: [NVIDIA Stock Data (1999–2026) | The AI Mega Stock](https://www.kaggle.com/datasets/alitaqishah/nvidia-stock-data-19992026-the-ai-mega-stock))*
 
-American Express (AXP) Stock Data (1972–2026)
-Historical American Express (AXP) stock dataset with 13,500+ daily records
-Dataset link : https://www.kaggle.com/datasets/anadiskt/american-express-axp-stock-data-19722026
-
-
-NVIDIA Stock Data (1999–2026) | The AI Mega Stock
-7,079 Trading Days | 6 Splits | IPO to $4.49 Trillion
-Dataset link : https://www.kaggle.com/datasets/alitaqishah/nvidia-stock-data-19992026-the-ai-mega-stock
-
-Sleep, Screen Time and Stress Analysis
-Exploring the relationship between smartphone usage, sleep quality analysis
-Dataset link : https://www.kaggle.com/datasets/jayjoshi37/sleep-screen-time-and-stress-analysis
-
-
-
+17. **[Sleep, Screen Time and Stress Analysis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Sleep%2C%20Screen%20Time%20and%20Stress%20Analysis)**
+    Exploring the relationship between smartphone usage, stress levels, and sleep quality analysis.  
+    *(Dataset: [Sleep, Screen Time and Stress Analysis](https://www.kaggle.com/datasets/jayjoshi37/sleep-screen-time-and-stress-analysis))*
 
 
 ---
