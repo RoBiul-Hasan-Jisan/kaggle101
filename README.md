@@ -106,7 +106,22 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
     *(Dataset: [Sleep, Screen Time and Stress Analysis](https://www.kaggle.com/datasets/jayjoshi37/sleep-screen-time-and-stress-analysis))*
 
 
+Oil Seeds Dataset Production & Yield Analysis
+Pakistan Crop Data (6 Years): Sunflower, Cotton, Rapeseed & Gram
+dataset link  https://www.kaggle.com/datasets/ranamuhammmadusman/oil-seeds-dataset-production-and-yield-analysis  
 ---
+
+
+global-suicide-rates-by-country-2000-2021
+Global suicide mortality rates per 100,000 population by country, sex and age
+
+dataset link https://www.kaggle.com/datasets/lucalullo/global-suicide-rates-by-country-2000-2021
+
+
+Adidas Global Catalogue 2026 (10 countries)
+44K+ adidas product rows across 10 markets with price and stock signals.
+ 
+dataset  link   https://www.kaggle.com/datasets/bsthere/adidas-global-catalogue-2026/data
 
 ##  Important Notes
 * Projects here are completely experimental and educational.
