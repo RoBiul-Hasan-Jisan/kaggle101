@@ -105,24 +105,19 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
     Exploring the relationship between smartphone usage, stress levels, and sleep quality analysis.  
     *(Dataset: [Sleep, Screen Time and Stress Analysis](https://www.kaggle.com/datasets/jayjoshi37/sleep-screen-time-and-stress-analysis))*
 
+18. **[Oil Seeds Dataset Production & Yield Analysis](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Oil%20Seeds%20Dataset%20Production%20and%20Yield%20Analysis)**
+    Pakistan Crop Data (6 Years): Analysis of sunflower, cotton, rapeseed & gram yield.  
+    *(Dataset: [Oil Seeds Dataset Production & Yield Analysis](https://www.kaggle.com/datasets/ranamuhammmadusman/oil-seeds-dataset-production-and-yield-analysis))*
 
-Oil Seeds Dataset Production & Yield Analysis
-Pakistan Crop Data (6 Years): Sunflower, Cotton, Rapeseed & Gram
-dataset link  https://www.kaggle.com/datasets/ranamuhammmadusman/oil-seeds-dataset-production-and-yield-analysis  
----
+19. **[Global Suicide Rates by Country (2000-2021)](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Global%20suicide_mortality)**
+    Analysis of global suicide mortality rates per 100,000 population across different countries, sexes, and age groups.  
+    *(Dataset: [Global suicide-rates-by-country-2000-2021](https://www.kaggle.com/datasets/lucalullo/global-suicide-rates-by-country-2000-2021))*
 
+20. **[Adidas Global Catalogue 2026 (10 countries)](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Adidas%20Global%20Catalogue_2026)**
+    Exploring 44K+ Adidas product rows across 10 global markets, focusing on price and stock signals.  
+    *(Dataset: [Adidas Global Catalogue 2026](https://www.kaggle.com/datasets/bsthere/adidas-global-catalogue-2026/data))*
 
-global-suicide-rates-by-country-2000-2021
-Global suicide mortality rates per 100,000 population by country, sex and age
-
-dataset link https://www.kaggle.com/datasets/lucalullo/global-suicide-rates-by-country-2000-2021
-
-
-Adidas Global Catalogue 2026 (10 countries)
-44K+ adidas product rows across 10 markets with price and stock signals.
- 
-dataset  link   https://www.kaggle.com/datasets/bsthere/adidas-global-catalogue-2026/data
-
+ ---
 ##  Important Notes
 * Projects here are completely experimental and educational.
 * Code may not follow full production standards or software engineering best practices.
