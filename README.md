@@ -116,17 +116,17 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
 20. **[Adidas Global Catalogue 2026 (10 countries)](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/practice/Adidas%20Global%20Catalogue_2026)**
     Exploring 44K+ Adidas product rows across 10 global markets, focusing on price and stock signals.  
     *(Dataset: [Adidas Global Catalogue 2026](https://www.kaggle.com/datasets/bsthere/adidas-global-catalogue-2026/data))*
+21. **[Student Exam Scores & Study Habits Dataset](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/kaggle_Practice/Student%20Exam%20Scores%20%26%20Study%20Habits)**
+    Explore what really affects student exam scores based on study habits and lifestyle factors.  
+    *(Dataset: [Student Exam Scores & Study Habits Dataset](https://www.kaggle.com/datasets/robiulhasanjisan/student-exam-scores-and-study-habits-dataset))*
 
+22. **[Iran War Oil Shock 2026 | Brent & Gas Tracker](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/kaggle_Practice/Iran%20War%20Oil%20Shock%202026)**
+    Tracking daily Brent, WTI & US gas prices, Hormuz shipping collapse, and 50-state pump data.  
+    *(Dataset: [Iran War Oil Shock 2026 | Brent & Gas Tracker](https://www.kaggle.com/datasets/alitaqishah/iran-war-oil-shock-2026-brent-and-gas-tracker))*
 
-Student Exam Scores & Study Habits Dataset Explore what really affects student exam score    dataset https://www.kaggle.com/datasets/robiulhasanjisan/student-exam-scores-and-study-habits-dataset 
-
-
-Iran War Oil Shock 2026 | Brent & Gas Tracker
-Daily Brent, WTI & US Gas Prices · Hormuz Shipping Collapse · 50-State Pump Data  dataset link  https://www.kaggle.com/datasets/alitaqishah/iran-war-oil-shock-2026-brent-and-gas-tracker 
-
-
-Best Songs for GenZ - 2025
-This dataset is created for GenZ  dataset link  https://www.kaggle.com/datasets/muhammadshayan5839/best-songs-for-genz-2025
+23. **[Best Songs for GenZ - 2025](https://github.com/RoBiul-Hasan-Jisan/kaggle101/tree/main/kaggle_Practice/Best%20Songs%20for%20GenZ%20-%202025)**
+    Analysis and exploration of popular music tracks tailored for GenZ listeners in 2025.  
+    *(Dataset: [Best Songs for GenZ - 2025](https://www.kaggle.com/datasets/muhammadshayan5839/best-songs-for-genz-2025))*
  ---
 ##  Important Notes
 * Projects here are completely experimental and educational.
