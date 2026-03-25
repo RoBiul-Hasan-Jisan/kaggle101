@@ -117,6 +117,16 @@ Unlike my other repositories where I build complete applications (Streamlit, Fla
     Exploring 44K+ Adidas product rows across 10 global markets, focusing on price and stock signals.  
     *(Dataset: [Adidas Global Catalogue 2026](https://www.kaggle.com/datasets/bsthere/adidas-global-catalogue-2026/data))*
 
+
+Student Exam Scores & Study Habits Dataset Explore what really affects student exam score    dataset https://www.kaggle.com/datasets/robiulhasanjisan/student-exam-scores-and-study-habits-dataset 
+
+
+Iran War Oil Shock 2026 | Brent & Gas Tracker
+Daily Brent, WTI & US Gas Prices · Hormuz Shipping Collapse · 50-State Pump Data  dataset link  https://www.kaggle.com/datasets/alitaqishah/iran-war-oil-shock-2026-brent-and-gas-tracker 
+
+
+Best Songs for GenZ - 2025
+This dataset is created for GenZ  dataset link  https://www.kaggle.com/datasets/muhammadshayan5839/best-songs-for-genz-2025
  ---
 ##  Important Notes
 * Projects here are completely experimental and educational.
